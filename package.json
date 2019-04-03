@@ -1,0 +1,19 @@
+{
+  "name": "star-wars-planets-rest-api",
+  "version": "0.0.1",
+  "description": "A simple REST API to manage Star Wars multiverse planets data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JHTohru/star-wars-planets-rest-api.git"
+  },
+  "author": "Tohru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHTohru/star-wars-planets-rest-api/issues"
+  },
+  "homepage": "https://github.com/JHTohru/star-wars-planets-rest-api#readme"
+}
