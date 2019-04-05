@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JHTohru/star-wars-planets-rest-api/issues"
   },
-  "homepage": "https://github.com/JHTohru/star-wars-planets-rest-api#readme"
+  "homepage": "https://github.com/JHTohru/star-wars-planets-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.22",
+    "node-fetch": "^2.3.0"
+  }
 }
